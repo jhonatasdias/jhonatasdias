@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstudentx&layout=compact)
 
-### Tecnologias que uso no meu dia
+### Technologies I use in my day
 
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
