@@ -3,10 +3,10 @@
 [![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonata-dias-749687259/)
 
 
-![Jhonata GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatasdias&show_icons=true&theme=highcontrast&hide=html)
+![Jhonata GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatasdias&show_icons=true&theme=highcontrast)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasdias&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasdias&layout=compact&hide=html,css,scss)
 
 ### Technologies I use in my day
 
