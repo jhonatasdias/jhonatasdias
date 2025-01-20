@@ -6,7 +6,7 @@
 ![Jhonata GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatasdias&show_icons=true&theme=highcontrast)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasdias&layout=compact&hide=html,css,scss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasdias&layout=compact&hide=html,css,scss,c)
 
 ### Technologies I use in my day
 
